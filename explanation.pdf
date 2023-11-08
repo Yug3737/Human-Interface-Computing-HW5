@@ -1,0 +1,10 @@
+The attached main.cpp file uses the Ceasar/Shift Cipher for encrypting a given string.
+The key used in the program is 3. That is, each character is shifted by 3 units.
+For example, 'a' becomes 'd' and 'f' becomes 'i'.
+
+This is one of the oldest ciphers and hence can be easily broken.
+Brute force analysis is not too long.
+Letter Frequency Analysis would give smarter results easily.
+As we know in the English dictionary are e,a,r,t and i.
+If the attacker gets hold of considerable amounts of ciphertext, they can easily find out the key
+and the plaintext would be revealed.
